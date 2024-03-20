@@ -19,7 +19,7 @@ Ensure you have Python 3.x installed on your system. This project also requires 
 
 ### Installation
 
-1. Clone this repository to your local machine: git clone <(https://github.com/Ramya29T/Text-Summarization)>
+1. Clone this repository to your local machine: git clone <[(https://github.com/Ramya29T/Text-Summarization)](https://github.com/Ramya29T/Text-Summarization.git)>
 2. Install the required Python libraries: pip install PyPDF2 nltk
 
 ### Usage
